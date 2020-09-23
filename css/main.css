@@ -19,6 +19,11 @@ p {
   text-align: center;
 }
 
+hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 img {
   height: 200px;
 }
@@ -30,7 +35,13 @@ img {
 }
 
 .container.grey {
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 15px;
   background-color: lightgrey;
+}
+
+.why.container img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
 }
